@@ -55,3 +55,5 @@ If you want to build the project to a folder that can be access via a webserver,
 ```
 npm run build
 ```
+
+make sure to install to /var/www/html dir
